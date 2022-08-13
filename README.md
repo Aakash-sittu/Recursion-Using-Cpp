@@ -19,7 +19,7 @@ I am 2nd Year student currently persuing Btech CSE from a renowned University.
 
 
 ## 🛠 Skills
-C,C++,HTML.
+C,C++.
 
 
 ## Support
