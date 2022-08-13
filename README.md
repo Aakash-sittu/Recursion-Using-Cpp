@@ -1,29 +1,29 @@
 
-# About Repository.
-This repository is maintained to update all the recursion questions i practiced during learning.
+# Recursion
+
+A process which gives a call to itself directly or indirectly is called a Recursion.
+
+A function containing a Recursion is called recursive function.
 
 These mainly include questions asked by top MNC's from recursion.
-## Sites I Practice on
-
- - [CSES](https://cses.fi/problemset/)
- - [GFG](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=gfg&utm_medium=gfg_header&utm_campaign=gfgpractice_header)
- 
-
-
-## 🚀 About Me
-I'm a programmer. I love to code and solve problems using C++ and C.
-
-I am 2nd Year student currently persuing Btech CSE from a renowned University.
 
 
 
+## References
 
-## 🛠 Skills
-C,C++.
+ - [GitHub](https://www.geeksforgeeks.org/recursion/)
+ - [Awesome Trick](https://www.google.com/search?q=recursion)
+ - Click on the above link and then click on "did you mean" (This is Recursion).
 
 
-## Support
+## Authors
 
-For support, email me at atcodeplus@gmail.com
+- [@Aakash-sittu](https://www.github.com/Aakash-sittu)
+Do check out my other repositories as well.
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at atcodeplus@gmail.com
 
 
