@@ -3,6 +3,8 @@
 using namespace std;
 int lastocc(int arr[], int n, int i, int key)
 {
+    if (i == n)
+        return -1;
     int larr = lastocc(arr, n, i + 1, key);
     if (larr != -1)
     {
